@@ -1,0 +1,12 @@
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/bin/Debug/netcoreapp3.1/MyFirstCalculator.deps.json
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/bin/Debug/netcoreapp3.1/MyFirstCalculator.runtimeconfig.json
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/bin/Debug/netcoreapp3.1/MyFirstCalculator.runtimeconfig.dev.json
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/bin/Debug/netcoreapp3.1/MyFirstCalculator.dll
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/bin/Debug/netcoreapp3.1/MyFirstCalculator.pdb
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/obj/Debug/netcoreapp3.1/MyFirstCalculator.csprojAssemblyReference.cache
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/obj/Debug/netcoreapp3.1/MyFirstCalculator.AssemblyInfoInputs.cache
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/obj/Debug/netcoreapp3.1/MyFirstCalculator.AssemblyInfo.cs
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/obj/Debug/netcoreapp3.1/MyFirstCalculator.csproj.CoreCompileInputs.cache
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/obj/Debug/netcoreapp3.1/MyFirstCalculator.dll
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/obj/Debug/netcoreapp3.1/MyFirstCalculator.pdb
+/Users/jeanlucgaman/MyProjects.NET/MyFirstCalculator/obj/Debug/netcoreapp3.1/MyFirstCalculator.genruntimeconfig.cache
