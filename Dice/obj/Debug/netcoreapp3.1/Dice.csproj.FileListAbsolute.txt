@@ -1,0 +1,12 @@
+/Users/jeanlucgaman/MyProjects.NET/Dice/bin/Debug/netcoreapp3.1/Dice.deps.json
+/Users/jeanlucgaman/MyProjects.NET/Dice/bin/Debug/netcoreapp3.1/Dice.runtimeconfig.json
+/Users/jeanlucgaman/MyProjects.NET/Dice/bin/Debug/netcoreapp3.1/Dice.runtimeconfig.dev.json
+/Users/jeanlucgaman/MyProjects.NET/Dice/bin/Debug/netcoreapp3.1/Dice.dll
+/Users/jeanlucgaman/MyProjects.NET/Dice/bin/Debug/netcoreapp3.1/Dice.pdb
+/Users/jeanlucgaman/MyProjects.NET/Dice/obj/Debug/netcoreapp3.1/Dice.csprojAssemblyReference.cache
+/Users/jeanlucgaman/MyProjects.NET/Dice/obj/Debug/netcoreapp3.1/Dice.AssemblyInfoInputs.cache
+/Users/jeanlucgaman/MyProjects.NET/Dice/obj/Debug/netcoreapp3.1/Dice.AssemblyInfo.cs
+/Users/jeanlucgaman/MyProjects.NET/Dice/obj/Debug/netcoreapp3.1/Dice.csproj.CoreCompileInputs.cache
+/Users/jeanlucgaman/MyProjects.NET/Dice/obj/Debug/netcoreapp3.1/Dice.dll
+/Users/jeanlucgaman/MyProjects.NET/Dice/obj/Debug/netcoreapp3.1/Dice.pdb
+/Users/jeanlucgaman/MyProjects.NET/Dice/obj/Debug/netcoreapp3.1/Dice.genruntimeconfig.cache
