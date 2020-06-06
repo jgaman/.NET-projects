@@ -14,9 +14,9 @@ namespace BlackJack
 
             int bankScore = dice.Next(16, 22);
 
-            Console.WriteLine("Welcome To the BlackJack !!!");
-            Console.WriteLine("---------------------------");
-            Console.WriteLine("---------------------------");
+            Console.WriteLine("🃟🃟🃟 WELCOME TO THE BLACKJACK 🃟🃟🃟");
+            Console.WriteLine("  ---------------------------");
+            Console.WriteLine("  ---------------------------");
             Console.WriteLine(" ");
 
             Console.Write(@"Press 'ENTER' to select your first card 🂱: ");
@@ -36,7 +36,7 @@ namespace BlackJack
 
             playerScore = playerFirstCard + playerSecondCard;
 
-            if (bankScore > playerScore)
+            if ((bankScore > playerScore) || (playerScore > 21))
             {
                 Console.WriteLine($"The Bank score was: {bankScore}");
                 Console.WriteLine("You lose ! 🂡🂡🂡");
@@ -45,7 +45,7 @@ namespace BlackJack
             else
             {
                 Console.WriteLine($"The bank Score is: {bankScore}");
-                Console.WriteLine("🂱🂱🂱BLACK JACK 🂱🂱🂱");
+                Console.WriteLine(@"🂱🂱🂱 BLACK JACK 🂱🂱🂱");
                 Console.WriteLine(" YOU WIN !!!");
             }
             
