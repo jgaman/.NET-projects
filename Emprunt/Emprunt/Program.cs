@@ -15,7 +15,7 @@ namespace Emprunt
             double montant;
             Console.Write("Tapez le montant à emprunter (ex: 10000) :");
             string strMontant = Console.ReadLine();
-            if (double.TryParse(strMontant, out montant)==false)
+            if (double.TryParse(strMontant, out montant)==false) 
             {
                 Console.WriteLine("montant incorrect !");
                 Console.ReadLine();
