@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{DDB46C06-7645-4FAA-B00E-C612B5972A47}|Default">
+﻿<Properties StartupConfiguration="{3C402AD7-43D0-45AE-AD10-FC64749A975D}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="34" Column="14" />
+      <File FileName="Program.cs" Line="63" Column="66" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Dice" expanded="True">
-            <Node name="Dice" expanded="True">
+          <Node name="switchCseExercice" expanded="True">
+            <Node name="switchCseExercice" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Dice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.switchCseExercice PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

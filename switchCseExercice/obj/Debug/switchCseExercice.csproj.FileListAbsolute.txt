@@ -1,0 +1,6 @@
+/Users/jeanlucgaman/MyProjects.NET/switchCseExercice/bin/Debug/switchCseExercice.exe
+/Users/jeanlucgaman/MyProjects.NET/switchCseExercice/bin/Debug/switchCseExercice.pdb
+/Users/jeanlucgaman/MyProjects.NET/switchCseExercice/obj/Debug/switchCseExercice.csprojAssemblyReference.cache
+/Users/jeanlucgaman/MyProjects.NET/switchCseExercice/obj/Debug/switchCseExercice.csproj.CoreCompileInputs.cache
+/Users/jeanlucgaman/MyProjects.NET/switchCseExercice/obj/Debug/switchCseExercice.exe
+/Users/jeanlucgaman/MyProjects.NET/switchCseExercice/obj/Debug/switchCseExercice.pdb
