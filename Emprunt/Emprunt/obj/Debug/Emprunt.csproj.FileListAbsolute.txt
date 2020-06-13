@@ -1,0 +1,9 @@
+C:\Users\jgaman\Documents\GitHub\.NET-projects\Emprunt\Emprunt\bin\Debug\Emprunt.exe.config
+C:\Users\jgaman\Documents\GitHub\.NET-projects\Emprunt\Emprunt\bin\Debug\Emprunt.exe
+C:\Users\jgaman\Documents\GitHub\.NET-projects\Emprunt\Emprunt\bin\Debug\Emprunt.pdb
+C:\Users\jgaman\Documents\GitHub\.NET-projects\Emprunt\Emprunt\obj\Debug\Emprunt.csprojAssemblyReference.cache
+C:\Users\jgaman\Documents\GitHub\.NET-projects\Emprunt\Emprunt\obj\Debug\Emprunt.Form1.resources
+C:\Users\jgaman\Documents\GitHub\.NET-projects\Emprunt\Emprunt\obj\Debug\Emprunt.csproj.GenerateResource.cache
+C:\Users\jgaman\Documents\GitHub\.NET-projects\Emprunt\Emprunt\obj\Debug\Emprunt.csproj.CoreCompileInputs.cache
+C:\Users\jgaman\Documents\GitHub\.NET-projects\Emprunt\Emprunt\obj\Debug\Emprunt.exe
+C:\Users\jgaman\Documents\GitHub\.NET-projects\Emprunt\Emprunt\obj\Debug\Emprunt.pdb
