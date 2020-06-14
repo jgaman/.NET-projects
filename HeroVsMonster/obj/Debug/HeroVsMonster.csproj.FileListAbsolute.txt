@@ -1,0 +1,6 @@
+/Users/jeanlucgaman/MyProjects.NET/HeroVsMonster/bin/Debug/HeroVsMonster.exe
+/Users/jeanlucgaman/MyProjects.NET/HeroVsMonster/bin/Debug/HeroVsMonster.pdb
+/Users/jeanlucgaman/MyProjects.NET/HeroVsMonster/obj/Debug/HeroVsMonster.csprojAssemblyReference.cache
+/Users/jeanlucgaman/MyProjects.NET/HeroVsMonster/obj/Debug/HeroVsMonster.csproj.CoreCompileInputs.cache
+/Users/jeanlucgaman/MyProjects.NET/HeroVsMonster/obj/Debug/HeroVsMonster.exe
+/Users/jeanlucgaman/MyProjects.NET/HeroVsMonster/obj/Debug/HeroVsMonster.pdb

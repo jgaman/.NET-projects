@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroVsMonster", "HeroVsMonster.csproj", "{F634F374-7603-4DD1-B8F0-6E4D5FD9078A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F634F374-7603-4DD1-B8F0-6E4D5FD9078A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F634F374-7603-4DD1-B8F0-6E4D5FD9078A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F634F374-7603-4DD1-B8F0-6E4D5FD9078A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F634F374-7603-4DD1-B8F0-6E4D5FD9078A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
