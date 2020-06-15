@@ -1,4 +1,4 @@
 # .NET-projects
 This repository contains all my C# et .NET exercices.
-This is for trainning.
+This is for my trainning.
 
