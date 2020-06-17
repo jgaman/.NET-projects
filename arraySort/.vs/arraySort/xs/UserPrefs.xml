@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{4FD57B76-F5BF-4EFD-81A7-9CAC9119B4DD}|Default">
-  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{A28FD46A-7FAB-4175-B2DD-C4DB557668BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.arraySort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="9" Column="37" />
+      <File FileName="Program.cs" Line="28" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FizzBuzz" expanded="True">
-            <Node name="FizzBuzz" expanded="True">
+          <Node name="arraySort" expanded="True">
+            <Node name="arraySort" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,7 +17,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

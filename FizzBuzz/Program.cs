@@ -10,15 +10,15 @@ namespace FizzBuzz
             {
                 if (i % 3 == 0 && i % 5 == 0)
                 {
-                    Console.WriteLine("FizzBuzz");
+                    Console.WriteLine($"{i} - FizzBuzz");
                 }
                 else if (i % 3 == 0)
                 {
-                    Console.WriteLine("Fizz");
+                    Console.WriteLine($"{i} - Fizz");
                 }
                 else if (i % 5 == 0)
                 {
-                    Console.WriteLine("Buzz");
+                    Console.WriteLine($"{i} - Buzz");
                 }
                 else
                 {

@@ -1,0 +1,6 @@
+/Users/jeanlucgaman/MyProjects.NET/arraySort/bin/Debug/arraySort.exe
+/Users/jeanlucgaman/MyProjects.NET/arraySort/bin/Debug/arraySort.pdb
+/Users/jeanlucgaman/MyProjects.NET/arraySort/obj/Debug/arraySort.csprojAssemblyReference.cache
+/Users/jeanlucgaman/MyProjects.NET/arraySort/obj/Debug/arraySort.csproj.CoreCompileInputs.cache
+/Users/jeanlucgaman/MyProjects.NET/arraySort/obj/Debug/arraySort.exe
+/Users/jeanlucgaman/MyProjects.NET/arraySort/obj/Debug/arraySort.pdb
