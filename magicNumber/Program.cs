@@ -6,8 +6,8 @@ namespace nb_magique_console
     {
         public static void Main(string[] args)
         {
-            const int NOMBRE_MAGIQUE_MIN = 5;
-            const int NOMBRE_MAGIQUE_MAX = 10;
+            const int NOMBRE_MAGIQUE_MIN = 1;
+            const int NOMBRE_MAGIQUE_MAX = 20;
             Random random = new Random();
             int nombreMagique = random.Next(NOMBRE_MAGIQUE_MIN, NOMBRE_MAGIQUE_MAX);
             const int NOMBRE_DE_VIES = 3;
@@ -41,7 +41,7 @@ namespace nb_magique_console
                         else
                         {
                             // Egalité : on a gagné
-                            Console.WriteLine("BRAVO: Vous avez trouvé le nombre magique");
+                            Console.WriteLine("BRAVO: Vous avez trouve le nombre magique");
                             break;
                         }
                         nombreDeVies--;
@@ -59,7 +59,7 @@ namespace nb_magique_console
             // Sortie de la boucle
             if (nombreDeVies == 0)
             {
-                Console.WriteLine("Désolé, vous avez perdu, le nombre magique était: " + nombreMagique);
+                Console.WriteLine("Desole, vous avez perdu, le nombre magique etait: " + nombreMagique);
             }
         }
     }
