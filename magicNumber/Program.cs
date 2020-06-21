@@ -6,15 +6,17 @@ namespace nb_magique_console
     {
         public static void Main(string[] args)
         {
-            Random dice = new Random();
-            int nombreDeVies = 0;
-            int nombreMagique = dice.Next(1, 20);
+            const int NOMBRE_MAGIQUE_MIN = 5;
+            const int NOMBRE_MAGIQUE_MAX = 10;
+            Random random = new Random();
+            int nombreMagique = random.Next(NOMBRE_MAGIQUE_MIN, NOMBRE_MAGIQUE_MAX);
             const int NOMBRE_DE_VIES = 3;
+            int nombreDeVies = NOMBRE_DE_VIES;
 
-            for (nombreDeVies = NOMBRE_DE_VIES; nombreDeVies > 0; nombreDeVies--)
+            while (nombreDeVies > 0)
             {
 
-                Console.Write("Devinez le nombre magique (il vous reste " + nombreDeVies + " vies): ");
+                Console.Write("Devinez le nombre magique entre " + NOMBRE_MAGIQUE_MIN + " et " + NOMBRE_MAGIQUE_MAX + " (il vous reste " + nombreDeVies + " vies): ");
                 String resultat = Console.ReadLine();
 
                 int nombreUtilisateur = 0;
@@ -22,19 +24,27 @@ namespace nb_magique_console
                 {
                     // La convertion s'est bien passée
 
-                    if (nombreUtilisateur < nombreMagique)
+                    if ((nombreUtilisateur < NOMBRE_MAGIQUE_MIN) || (nombreUtilisateur > NOMBRE_MAGIQUE_MAX))
                     {
-                        Console.WriteLine("Le nombre magique est plus grand.");
-                    }
-                    else if (nombreUtilisateur > nombreMagique)
-                    {
-                        Console.WriteLine("Le nombre magique est plus petit.");
+                        Console.WriteLine("ERREUR: Vous devez rentrer un nombre entre " + NOMBRE_MAGIQUE_MIN + " et " + NOMBRE_MAGIQUE_MAX);
                     }
                     else
                     {
-                        // Egalité : on a gagné
-                        Console.WriteLine("BRAVO: Vous avez trouve le nombre magique");
-                        break;
+                        if (nombreUtilisateur < nombreMagique)
+                        {
+                            Console.WriteLine("Le nombre magique est plus grand.");
+                        }
+                        else if (nombreUtilisateur > nombreMagique)
+                        {
+                            Console.WriteLine("Le nombre magique est plus petit.");
+                        }
+                        else
+                        {
+                            // Egalité : on a gagné
+                            Console.WriteLine("BRAVO: Vous avez trouvé le nombre magique");
+                            break;
+                        }
+                        nombreDeVies--;
                     }
                 }
                 else
@@ -49,8 +59,7 @@ namespace nb_magique_console
             // Sortie de la boucle
             if (nombreDeVies == 0)
             {
-                Console.WriteLine("Desole, vous avez perdu.");
-                Console.WriteLine($"Le nombre magic etait: {nombreMagique}");
+                Console.WriteLine("Désolé, vous avez perdu, le nombre magique était: " + nombreMagique);
             }
         }
     }
