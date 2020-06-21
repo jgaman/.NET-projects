@@ -1,0 +1,6 @@
+/Users/jeanlucgaman/MyProjects.NET/magicNumber/bin/Debug/magicNumber.exe
+/Users/jeanlucgaman/MyProjects.NET/magicNumber/bin/Debug/magicNumber.pdb
+/Users/jeanlucgaman/MyProjects.NET/magicNumber/obj/Debug/magicNumber.csprojAssemblyReference.cache
+/Users/jeanlucgaman/MyProjects.NET/magicNumber/obj/Debug/magicNumber.csproj.CoreCompileInputs.cache
+/Users/jeanlucgaman/MyProjects.NET/magicNumber/obj/Debug/magicNumber.exe
+/Users/jeanlucgaman/MyProjects.NET/magicNumber/obj/Debug/magicNumber.pdb
