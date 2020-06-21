@@ -6,8 +6,9 @@ namespace nb_magique_console
     {
         public static void Main(string[] args)
         {
+            Random dice = new Random();
             int nombreDeVies = 0;
-            int nombreMagique = 5;
+            int nombreMagique = dice.Next(1, 20);
             const int NOMBRE_DE_VIES = 3;
 
             for (nombreDeVies = NOMBRE_DE_VIES; nombreDeVies > 0; nombreDeVies--)
@@ -32,7 +33,7 @@ namespace nb_magique_console
                     else
                     {
                         // Egalité : on a gagné
-                        Console.WriteLine("BRAVO: Vous avez trouvé le nombre magique");
+                        Console.WriteLine("BRAVO: Vous avez trouve le nombre magique");
                         break;
                     }
                 }
@@ -48,7 +49,8 @@ namespace nb_magique_console
             // Sortie de la boucle
             if (nombreDeVies == 0)
             {
-                Console.WriteLine("Désolé, vous avez perdu.");
+                Console.WriteLine("Desole, vous avez perdu.");
+                Console.WriteLine($"Le nombre magic etait: {nombreMagique}");
             }
         }
     }
