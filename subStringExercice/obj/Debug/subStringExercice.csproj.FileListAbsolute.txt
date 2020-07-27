@@ -1,0 +1,6 @@
+/Users/jeanlucgaman/MyProjects.NET/subStringExercice/bin/Debug/subStringExercice.exe
+/Users/jeanlucgaman/MyProjects.NET/subStringExercice/bin/Debug/subStringExercice.pdb
+/Users/jeanlucgaman/MyProjects.NET/subStringExercice/obj/Debug/subStringExercice.csprojAssemblyReference.cache
+/Users/jeanlucgaman/MyProjects.NET/subStringExercice/obj/Debug/subStringExercice.csproj.CoreCompileInputs.cache
+/Users/jeanlucgaman/MyProjects.NET/subStringExercice/obj/Debug/subStringExercice.exe
+/Users/jeanlucgaman/MyProjects.NET/subStringExercice/obj/Debug/subStringExercice.pdb
